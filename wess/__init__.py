@@ -4,7 +4,7 @@ A python analysis and visualization suite for WESTPA simulations.
 """
 
 # Add imports here
-from .io import open_h5
+from .io import loadh5
 from .timings import walltime, aggtime
 
 # Handle versioneer

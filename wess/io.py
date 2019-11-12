@@ -1,7 +1,7 @@
 import h5py
 import numpy
 
-def open_h5(file_location = "./west.h5"):
+def loadh5(file_location = "./west.h5"):
     """
     A function that opens an h5 file.
     
@@ -18,7 +18,7 @@ def open_h5(file_location = "./west.h5"):
     Examples
     --------
     >>> file_location = "../myh5file.h5"
-    >>> h5 = open_h5(file_location)
+    >>> h5 = loadh5(file_location)
     >>> h5
     <HDF5 file "myh5file.h5" (mode r)>
     """
