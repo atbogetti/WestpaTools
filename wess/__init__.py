@@ -4,7 +4,7 @@ A python analysis and visualization suite for WESTPA simulations.
 """
 
 # Add imports here
-from .wess import *
+from .io import *
 
 # Handle versioneer
 from ._version import get_versions
