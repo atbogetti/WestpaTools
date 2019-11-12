@@ -1,4 +1,4 @@
 Getting Started
 ===============
 
-This page details how to get started with WESS. 
+WESS is a suite of python tools for analyzin WESTPA h5 simulation files.

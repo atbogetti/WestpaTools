@@ -4,4 +4,6 @@ API Documentation
 .. autosummary::
    :toctree: autosummary
 
-   wess.canvas
+   wess.open_h5
+   wess.walltime
+   wess.aggtime
