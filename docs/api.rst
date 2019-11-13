@@ -7,3 +7,5 @@ API Documentation
    wess.loadh5
    wess.walltime
    wess.aggtime
+   wess.findmax
+   wess.findmin
