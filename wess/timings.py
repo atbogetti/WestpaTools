@@ -8,7 +8,7 @@ def walltime(h5file):
     Parameters
     ----------
     h5file: dictionary
-        The user's HDF5 file loaded with open_h5.
+        The user's HDF5 file loaded with loadh5.
     
     Returns
     -------
@@ -17,7 +17,7 @@ def walltime(h5file):
     
     Examples
     --------
-    >>> h5file = open_h5("west.h5")
+    >>> h5file = loadh5("west.h5")
     >>> walltime(h5file)
     2000000 seconds
     """
@@ -31,7 +31,7 @@ def aggtime(h5file, tau):
     Parameters
     ----------
     h5file: dictionary
-        The user's HDF5 file loaded with open_h5.
+        The user's HDF5 file loaded with loadh5.
     tau: float
         The WESTPA simulation's tau value in picoseconds.
     
@@ -42,7 +42,7 @@ def aggtime(h5file, tau):
     
     Examples
     --------
-    >>> h5file = open_h5("west.h5")
+    >>> h5file = loadh5("west.h5")
     >>> aggtime(h5file)
     2000 picoseconds
     """
