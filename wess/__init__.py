@@ -7,6 +7,7 @@ A python analysis and visualization suite for WESTPA simulations.
 from .io import loadh5
 from .timings import walltime, aggtime
 from .extrema import findmax, findmin
+from .plotting import plotflux
 
 # Handle versioneer
 from ._version import get_versions
