@@ -1,12 +1,12 @@
 """
-Unit and regression test for the wess package.
+Unit and regression test for the westpatools package.
 """
 
 # Import package, test suite, and other packages as needed
-import wess
+import wtools
 import pytest
 import sys
 
-def test_wess_imported():
+def test_westpatools_imported():
     """Sample test, will always pass so long as import statement worked"""
-    assert "wess" in sys.modules
+    assert "wtools" in sys.modules
