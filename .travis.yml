@@ -42,7 +42,7 @@ install:
 
 
 script:
-  - pytest -v --cov=wess wess/tests/
+  - pytest -v --cov=westpatools WestpaTools/tests/
 
 notifications:
     email: false

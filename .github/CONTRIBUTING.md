@@ -1,7 +1,7 @@
 # How to contribute
 
 We welcome contributions from external contributors, and this document
-describes how to merge code changes into this wess. 
+describes how to merge code changes into this westpatools. 
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ describes how to merge code changes into this wess.
   [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
   with the branch name relating to the feature you are going to add.
 * When you are ready for others to examine and comment on your new feature,
-  navigate to your fork of wess on GitHub and open a [pull
+  navigate to your fork of westpatools on GitHub and open a [pull
   request](https://help.github.com/articles/using-pull-requests/) (PR). Note that
   after you launch a PR from one of your fork's branches, all
   subsequent commits to that branch will be added to the open pull request
