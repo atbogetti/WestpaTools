@@ -4,9 +4,9 @@ API Documentation
 .. autosummary::
    :toctree: autosummary
 
-   wess.loadh5
-   wess.walltime
-   wess.aggtime
-   wess.findmax
-   wess.findmin
-   wess.plotflux
+   wtools.loadh5
+   wtools.walltime
+   wtools.aggtime
+   wtools.findmax
+   wtools.findmin
+   wtools.plotflux

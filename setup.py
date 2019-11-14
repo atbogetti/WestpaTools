@@ -1,5 +1,5 @@
 """
-WESS
+WestpaTools
 A python analysis and visualization suite for WESTPA simulations.
 """
 import sys
@@ -21,7 +21,7 @@ except:
 
 setup(
     # Self-descriptive entries which should always be present
-    name='wess',
+    name='westpatools',
     author='Anthony Bogetti',
     author_email='anthony.bogetti@gmail.com',
     description=short_description[0],
