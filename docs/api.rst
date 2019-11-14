@@ -9,3 +9,4 @@ API Documentation
    wess.aggtime
    wess.findmax
    wess.findmin
+   wess.plotflux
