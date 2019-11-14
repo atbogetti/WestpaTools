@@ -1,7 +1,7 @@
 WestpaTools
 ==============================
 [//]: # (Badges)
-[![Documentation Status](https://readthedocs.org/projects/wess/badge/?version=latest)](https://wess.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/westpatools/badge/?version=latest)](https://westpatools.readthedocs.io/en/latest/?badge=latest)
       
 
 A python analysis and visualization suite for WESTPA simulations.
