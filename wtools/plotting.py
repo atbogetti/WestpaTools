@@ -20,7 +20,7 @@ def plotflux(h5file, state=1):
 
     Examples
     --------
-    >>> h5file = loadh5("west.h5")
+    >>> h5file = loadh5("direct.h5")
     >>> plotflux(h5file, 1)
     --------
     |  __/ |
