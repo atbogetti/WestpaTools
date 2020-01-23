@@ -10,3 +10,4 @@ API Documentation
    wtools.findmax
    wtools.findmin
    wtools.plotflux
+   wtools.plotrc
