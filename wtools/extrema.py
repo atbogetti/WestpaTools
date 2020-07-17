@@ -43,7 +43,7 @@ def findmax(h5file, pcoord_dim, fi, li):
     max_iter = h5file['iterations'][wheretolook]['pcoord'][:,-1,pcoord_dim-1]
     segmax = numpy.max(max_iter)
     nw2 = numpy.where(max_iter>(segmax-segmax*0.0001))
-    seg_num = (nw2[0]+1)[0]
+    seg_num = (nw2[0])[0]
     print ("Maximum pcoord value for dimension",pcoord_dim,"is:",segmax) 
     print ("It is segment:",seg_num,"of iteration:",iter_num)
 
